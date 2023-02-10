@@ -1,0 +1,14 @@
+C:\Users\123\source\repos\PR6\PR6\bin\Debug\PR6.exe.config
+C:\Users\123\source\repos\PR6\PR6\bin\Debug\PR6.exe
+C:\Users\123\source\repos\PR6\PR6\bin\Debug\PR6.pdb
+C:\Users\123\source\repos\PR6\PR6\obj\Debug\PR6.csproj.AssemblyReference.cache
+C:\Users\123\source\repos\PR6\PR6\obj\Debug\PR6.Clients.resources
+C:\Users\123\source\repos\PR6\PR6\obj\Debug\PR6.Form1.resources
+C:\Users\123\source\repos\PR6\PR6\obj\Debug\PR6.Properties.Resources.resources
+C:\Users\123\source\repos\PR6\PR6\obj\Debug\PR6.csproj.GenerateResource.cache
+C:\Users\123\source\repos\PR6\PR6\obj\Debug\PR6.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\PR6\PR6\obj\Debug\PR6.exe
+C:\Users\123\source\repos\PR6\PR6\obj\Debug\PR6.pdb
+C:\Users\123\source\repos\PR6\PR6\obj\Debug\PR6.Carrier.resources
+C:\Users\123\source\repos\PR6\PR6\obj\Debug\PR6.Orders.resources
+C:\Users\123\source\repos\PR6\PR6\obj\Debug\PR6.Info.resources
